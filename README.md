@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wim</h1>
-<h3 align="center">A passionate frontend developer from the Netherlands</h3>
+<h3 align="center">A passionate fullstack developer from the Netherlands</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
